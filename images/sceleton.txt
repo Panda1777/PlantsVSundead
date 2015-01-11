@@ -1,0 +1,95 @@
+sceleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sceleton1
+  rotate: false
+  xy: 2, 587
+  size: 42, 69
+  orig: 57, 78
+  offset: 3, 5
+  index: -1
+sceleton2
+  rotate: false
+  xy: 2, 515
+  size: 42, 70
+  orig: 53, 79
+  offset: 4, 4
+  index: -1
+sceleton3
+  rotate: false
+  xy: 2, 799
+  size: 38, 69
+  orig: 50, 77
+  offset: 5, 3
+  index: -1
+sceleton4
+  rotate: false
+  xy: 2, 445
+  size: 49, 68
+  orig: 58, 77
+  offset: 4, 3
+  index: -1
+sceleton5
+  rotate: false
+  xy: 2, 729
+  size: 39, 68
+  orig: 45, 77
+  offset: 6, 3
+  index: -1
+sceleton6
+  rotate: false
+  xy: 2, 658
+  size: 42, 69
+  orig: 47, 77
+  offset: 0, 3
+  index: -1
+sceleton7
+  rotate: false
+  xy: 2, 235
+  size: 52, 66
+  orig: 56, 77
+  offset: 4, 3
+  index: -1
+sceleton8
+  rotate: false
+  xy: 2, 303
+  size: 50, 69
+  orig: 54, 77
+  offset: 4, 3
+  index: -1
+sceleton9
+  rotate: false
+  xy: 2, 870
+  size: 36, 70
+  orig: 53, 77
+  offset: 11, 3
+  index: -1
+sceletoneat1
+  rotate: false
+  xy: 2, 93
+  size: 58, 69
+  orig: 63, 98
+  offset: 0, 6
+  index: -1
+sceletoneat2
+  rotate: false
+  xy: 2, 2
+  size: 59, 89
+  orig: 65, 98
+  offset: 3, 6
+  index: -1
+sceletoneat4
+  rotate: false
+  xy: 2, 374
+  size: 49, 69
+  orig: 53, 98
+  offset: 4, 6
+  index: -1
+sceletoneat5
+  rotate: false
+  xy: 2, 164
+  size: 58, 69
+  orig: 64, 98
+  offset: 3, 6
+  index: -1

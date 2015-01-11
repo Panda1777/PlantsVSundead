@@ -1,0 +1,88 @@
+nut.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nats1
+  rotate: false
+  xy: 248, 2
+  size: 81, 117
+  orig: 98, 120
+  offset: 10, 0
+  index: -1
+nats11
+  rotate: false
+  xy: 2, 2
+  size: 80, 119
+  orig: 106, 120
+  offset: 10, 0
+  index: -1
+nats12
+  rotate: false
+  xy: 661, 2
+  size: 80, 116
+  orig: 98, 120
+  offset: 7, 0
+  index: -1
+nats13
+  rotate: false
+  xy: 495, 2
+  size: 81, 116
+  orig: 96, 120
+  offset: 8, 0
+  index: -1
+nats14
+  rotate: false
+  xy: 825, 2
+  size: 81, 115
+  orig: 94, 120
+  offset: 3, 0
+  index: -1
+nats2
+  rotate: false
+  xy: 578, 2
+  size: 81, 116
+  orig: 96, 120
+  offset: 5, 0
+  index: -1
+nats21
+  rotate: false
+  xy: 908, 2
+  size: 81, 114
+  orig: 100, 120
+  offset: 9, 1
+  index: -1
+nats22
+  rotate: false
+  xy: 743, 2
+  size: 80, 116
+  orig: 108, 120
+  offset: 15, 1
+  index: -1
+nats23
+  rotate: false
+  xy: 331, 2
+  size: 80, 117
+  orig: 102, 120
+  offset: 8, 1
+  index: -1
+nats24
+  rotate: false
+  xy: 413, 2
+  size: 80, 117
+  orig: 98, 120
+  offset: 9, 2
+  index: -1
+nats3
+  rotate: false
+  xy: 84, 2
+  size: 80, 119
+  orig: 98, 120
+  offset: 10, 0
+  index: -1
+nats4
+  rotate: false
+  xy: 166, 2
+  size: 80, 119
+  orig: 96, 120
+  offset: 7, 0
+  index: -1

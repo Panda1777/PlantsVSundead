@@ -1,0 +1,53 @@
+pepper.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 74, 2
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 134, 2
+  size: 123, 134
+  orig: 123, 134
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 2, 138
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+fire4
+  rotate: false
+  xy: 167, 138
+  size: 167, 161
+  orig: 167, 161
+  offset: 0, 0
+  index: -1
+fire5
+  rotate: false
+  xy: 2, 306
+  size: 178, 170
+  orig: 178, 170
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 182, 306
+  size: 175, 170
+  orig: 175, 170
+  offset: 0, 0
+  index: -1

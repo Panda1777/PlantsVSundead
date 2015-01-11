@@ -1,0 +1,235 @@
+plants.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 70, 123
+  orig: 70, 123
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 74, 2
+  size: 20, 20
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 96, 2
+  size: 58, 70
+  orig: 178, 170
+  offset: 59, 18
+  index: -1
+fire2
+  rotate: false
+  xy: 156, 2
+  size: 123, 134
+  orig: 178, 170
+  offset: 26, 16
+  index: -1
+fire3
+  rotate: false
+  xy: 281, 2
+  size: 163, 166
+  orig: 178, 170
+  offset: 10, 4
+  index: -1
+fire4
+  rotate: false
+  xy: 2, 170
+  size: 167, 161
+  orig: 178, 170
+  offset: 6, 9
+  index: -1
+fire5
+  rotate: false
+  xy: 171, 170
+  size: 178, 170
+  orig: 178, 170
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 2, 342
+  size: 175, 170
+  orig: 178, 170
+  offset: 3, 0
+  index: -1
+nut1
+  rotate: false
+  xy: 179, 342
+  size: 81, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+nut2
+  rotate: false
+  xy: 262, 342
+  size: 81, 116
+  orig: 81, 117
+  offset: 0, 1
+  index: -1
+nut21
+  rotate: false
+  xy: 345, 342
+  size: 80, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+nut22
+  rotate: false
+  xy: 427, 342
+  size: 80, 116
+  orig: 81, 117
+  offset: 0, 1
+  index: -1
+nut23
+  rotate: false
+  xy: 2, 514
+  size: 81, 116
+  orig: 81, 117
+  offset: 0, 1
+  index: -1
+nut24
+  rotate: false
+  xy: 85, 514
+  size: 81, 115
+  orig: 81, 117
+  offset: 0, 1
+  index: -1
+nut3
+  rotate: false
+  xy: 168, 514
+  size: 80, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+nut31
+  rotate: false
+  xy: 250, 514
+  size: 81, 114
+  orig: 81, 117
+  offset: 0, 2
+  index: -1
+nut32
+  rotate: false
+  xy: 333, 514
+  size: 80, 116
+  orig: 81, 117
+  offset: 0, 1
+  index: -1
+nut33
+  rotate: false
+  xy: 415, 514
+  size: 80, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+nut34
+  rotate: false
+  xy: 2, 633
+  size: 80, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+nut4
+  rotate: false
+  xy: 84, 633
+  size: 80, 117
+  orig: 81, 117
+  offset: 0, 0
+  index: -1
+peas1
+  rotate: false
+  xy: 166, 633
+  size: 63, 69
+  orig: 85, 85
+  offset: 11, 8
+  index: -1
+peas2
+  rotate: false
+  xy: 231, 633
+  size: 63, 66
+  orig: 85, 85
+  offset: 13, 8
+  index: -1
+peas3
+  rotate: false
+  xy: 296, 633
+  size: 62, 70
+  orig: 85, 85
+  offset: 9, 8
+  index: -1
+peas4
+  rotate: false
+  xy: 360, 633
+  size: 62, 61
+  orig: 85, 85
+  offset: 5, 8
+  index: -1
+peas5
+  rotate: false
+  xy: 424, 633
+  size: 62, 62
+  orig: 85, 85
+  offset: 6, 8
+  index: -1
+sun1
+  rotate: false
+  xy: 2, 752
+  size: 63, 72
+  orig: 70, 72
+  offset: 4, 0
+  index: -1
+sun2
+  rotate: false
+  xy: 67, 752
+  size: 62, 72
+  orig: 70, 72
+  offset: 8, 0
+  index: -1
+sun3
+  rotate: false
+  xy: 131, 752
+  size: 63, 64
+  orig: 85, 72
+  offset: 18, 0
+  index: -1
+sun4
+  rotate: false
+  xy: 196, 752
+  size: 63, 72
+  orig: 85, 72
+  offset: 11, 0
+  index: -1
+sun5
+  rotate: false
+  xy: 261, 752
+  size: 62, 72
+  orig: 85, 72
+  offset: 11, 0
+  index: -1
+sun6
+  rotate: false
+  xy: 325, 752
+  size: 62, 71
+  orig: 85, 72
+  offset: 10, 0
+  index: -1
+sun7
+  rotate: false
+  xy: 389, 752
+  size: 62, 64
+  orig: 85, 72
+  offset: 8, 0
+  index: -1
+sun8
+  rotate: false
+  xy: 2, 826
+  size: 63, 67
+  orig: 85, 72
+  offset: 8, 0
+  index: -1
